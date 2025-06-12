@@ -2,6 +2,10 @@
 
 Kill your CSS layout bugs.  *Without* 2000 clicks in Chrome Dev Tools.
 
+This project is a fork of Pesticide, originally developed by Adam Morse: https://github.com/mrmrs/pesticide.
+
+It has been updated to ensure compatibility with Chrome Extension Manifest V3, while preserving all original functionality.
+
 ## WTF is this?
 
 Sometimes if I am trying to sleuth a layout problem in CSS, all I want is every
